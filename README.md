@@ -18,5 +18,5 @@
 
 <a href="https://www.instagram.com/bharathjinka09" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.twitter.com/bharathjinka09" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-
+<a href="https://www.fb.com/bharathjinka09" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=blue" alt="Facebook"></a>
 </div>
