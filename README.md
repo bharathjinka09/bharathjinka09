@@ -3,8 +3,10 @@
 # I am J. Ranga Bharath (B.Tech graduate)
 ## Software Developer
 ## Loves to make awesome websites
-## Portfolio & Projects: [Click here!](https://bharath-blog.herokuapp.com)
-- 🔭 I’m currently working on React Quiz App
+## Portfolio: [Click here!](https://bharathjinka09.github.io)
+## Projects: [Click here!](https://bharath-blog.herokuapp.com)
+## Python Package Published on Pypi.org: [Click here!](https://pypi.org/project/zipcode-to-map/)
+
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Django and React
 - 💬 Ask me about Python, JS
