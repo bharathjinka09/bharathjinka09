@@ -13,6 +13,7 @@
 - 💬 Ask me about Python, JS
 - 📫 How to reach me: bharathjinka09@gmail.com 
 <div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathjinka09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathjinka09&&show_icons=true&title_color=161e2e&icon_color=31c48d&text_color=4b5563&bg_color=f4f5f7" alt="Bharath Github Stats">
 
