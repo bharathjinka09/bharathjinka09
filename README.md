@@ -18,6 +18,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathjinka09&&show_icons=true&title_color=161e2e&icon_color=31c48d&text_color=4b5563&bg_color=f4f5f7" alt="Bharath Github Stats">
 <br>
+<br>
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
 <i>Other places you can find me:</i><br>
