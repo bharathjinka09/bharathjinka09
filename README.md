@@ -29,6 +29,17 @@
 </details>
 <br>
 <br>
+<details align="center">
+  <summary>Motivate Yourself:</summary>
+  <p align="center">
+    <a href="https://github.com/bharathjinka09/github-readme-quotes">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
+    </a>
+  </p>
+</details>
+<br>
+<br>
+  
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
 <i>Other places you can find me:</i><br>
