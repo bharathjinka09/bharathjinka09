@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, Welcome to my profile 👋
+<img src="https://raw.githubusercontent.com/bharathjinka09/bharathjinka09/master/Hi.gif" width="100" />
 
 # I am J. Ranga Bharath (B.Tech graduate)
 ## Software Developer
