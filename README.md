@@ -33,9 +33,7 @@
 <details align="center">
   <summary>Motivate Yourself:</summary>
   <p align="center">
-    <a href="https://github.com/bharathjinka09/github-readme-quotes">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
-    </a>
+    <h2>Always be positive</h2>
   </p>
 </details>
 <br>
