@@ -9,9 +9,9 @@
 ## Python Package Published on Pypi.org: [Click here!](https://pypi.org/project/zipcode-to-map/)
 ## Documentation for the python package which converts zipcode to google map: [Click here!](https://libraries.io/pypi/zipcode-to-map)
 
-- 🌱 I’m currently learning Vue js
-- 👯 I’m looking to collaborate on Django,Angular and React
-- 💬 Ask me about Python, JS
+
+- 👯 I’m looking to collaborate on Django, React and Vue Js
+- 💬 Ask me about Python, Javascript
 - 📫 How to reach me: bharathjinka09@gmail.com 
 <div align="center">
 
