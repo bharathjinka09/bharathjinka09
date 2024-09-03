@@ -5,13 +5,12 @@
 ## Software Developer
 ## Loves to make awesome websites
 ## Portfolio: [Click here!](https://bharathjinka09.github.io)
-## Projects: [Click here!](https://bharath-blog.herokuapp.com)
 ## Python Package Published on Pypi.org: [Click here!](https://pypi.org/project/zipcode-to-map/)
 ## Documentation for the python package which converts zipcode to google map: [Click here!](https://libraries.io/pypi/zipcode-to-map)
 
 
-- 👯 I’m looking to collaborate on Django, React and Vue Js
-- 💬 Ask me about Python, Javascript
+- 👯 I’m looking to collaborate on Django, React
+- 💬 Ask me about Python, Node.js, Javascript
 - 📫 How to reach me: bharathjinka09@gmail.com 
 <div align="center">
 
