@@ -38,7 +38,7 @@
 <br>
 <br>
   
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
+<a href='https://archiveprogram.github.com/' target="_blank"><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
 <i>Other places you can find me:</i><br>
 
