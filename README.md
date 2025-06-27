@@ -10,7 +10,7 @@
 
 
 - 👯 I’m looking to collaborate on Django, React
-- 💬 Ask me about Python, Node.js, Javascript
+- 💬 Ask me about AI, Python, Node.js, Javascript
 - 📫 How to reach me: bharathjinka09@gmail.com 
 <div align="center">
 
