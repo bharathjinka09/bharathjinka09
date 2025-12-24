@@ -14,19 +14,7 @@
 - 📫 How to reach me: bharathjinka09@gmail.com 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathjinka09&layout=compact" alt="Bharath Top Languages">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathjinka09&&show_icons=true&title_color=161e2e&icon_color=31c48d&text_color=4b5563&bg_color=f4f5f7" alt="Bharath Github Stats">
-<br>  
-<br>  
-<details align="center">
-  <summary>GitHub Trophies 🏆</summary>
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-      <img src="https://github-profile-trophy.vercel.app/?username=bharathjinka09&theme=gruvbox"/>
-    </a>
-  </p>
-</details>
 <br>
 <br>
 <details align="center">
