@@ -1,16 +1,16 @@
-### Hi there, Welcome to my profile
+### Hi there, welcome to my profile
 <img src="https://raw.githubusercontent.com/bharathjinka09/bharathjinka09/master/Hi.gif" width="100" />
 
 # I am J. Ranga Bharath (B.Tech graduate)
 ## Software Developer
-## Loves to make awesome AI Chatbots, agents and websites
+## Loves to make awesome AI agents and websites
 ## Portfolio: [Click here!](https://bharathjinka09.github.io)
-## Python Package Published on Pypi.org: [Click here!](https://pypi.org/project/zipcode-to-map/)
-## Documentation for the python package which converts zipcode to google map: [Click here!](https://libraries.io/pypi/zipcode-to-map)
+## Python Package Published on PyPI.org: [Click here!](https://pypi.org/project/zipcode-to-map/)
+## Documentation for the Python package which converts ZIP code to Google Maps: [Click here!](https://libraries.io/pypi/zipcode-to-map)
 
 
 - 👯 I’m looking to collaborate on AI, Django, Flask
-- 💬 Ask me about AI, Python, Node.js, Javascript
+- 💬 Ask me about AI, LangChain, LangGraph, Python, Node.js, JavaScript
 - 📫 How to reach me: bharathjinka09@gmail.com 
 <div align="center">
 
