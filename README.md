@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/bharathjinka09/bharathjinka09/master/Hi.gif" width="100" />
 
 # I am J. Ranga Bharath (B.Tech graduate)
-## Software Developer
+## AI Software Developer
 ## Loves to make awesome AI agents and websites
 ## Portfolio: [Click here!](https://bharathjinka09-github-io.onrender.com/)
 ## Python Package Published on PyPI.org: [Click here!](https://pypi.org/project/zipcode-to-map/)
