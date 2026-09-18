@@ -10,7 +10,7 @@
 
 
 - 👯 I’m looking to collaborate on AI, Django, Flask
-- 💬 Ask me about AI, LangChain, LangGraph, Python, Node.js, JavaScript
+- 💬 Ask me about AI, RAG, LangChain, LangGraph, Python, Node.js, JavaScript
 - 📫 How to reach me: bharathjinka09@gmail.com 
 <div align="center">
 
