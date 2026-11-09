@@ -9,7 +9,7 @@
 ## Documentation for the Python package which converts ZIP code to Google Maps: [Click here!](https://libraries.io/pypi/zipcode-to-map)
 
 
-- 👯 I’m looking to collaborate on AI, Django, Flask
+- 👯 I’m looking to collaborate on AI, FastAPI, Django, Flask
 - 💬 Ask me about AI, RAG, LangChain, LangGraph, Python, Node.js, JavaScript
 - 📫 How to reach me: bharathjinka09@gmail.com 
 <div align="center">
