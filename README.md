@@ -30,7 +30,7 @@
 
 <i>Other places you can find me:</i><br>
 
+<a href="https://www.linkedin.com/in/ranga-bharath-jinka-7b56a8107/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/bharathjinka09" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.twitter.com/bharathjinka09" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://m.facebook.com/jinka.rangabharath" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </div>
